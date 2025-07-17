@@ -25,7 +25,7 @@ C++, Python, Java
 Computational physics, HPC environments, detector simulation, numerical modeling
 
 **Tools and Frameworks**  
-Geant4, G4CMP, SLURM, Bash scripting, Git
+Geant4, G4CMP, SLURM, Bash scripting, Git, NumPy, Pandas, Librosa
 
 ## Contact and Links
 
