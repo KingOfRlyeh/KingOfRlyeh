@@ -1,6 +1,6 @@
 # Jack Bollenbacher
 
-“Nothing is just one thing, but everything is just one thing.”- Me!
+Nothing is just one thing, but everything is just one thing.
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
