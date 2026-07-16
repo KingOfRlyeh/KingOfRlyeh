@@ -11,18 +11,12 @@ Nothing is just one thing, but everything is just one thing.
 [![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
-
-Computational Physics and Pure Mathematics student at Texas A&M University  
-Undergraduate researcher working on G4CMP (Geant4 Condensed Matter Physics) for the SuperCDMS collaboration
-Focused on high-performance computing, numerical methods, and physical simulation
+Pure Mathematics student at Texas A&M University  
 
 ## Technical Profile
 
 **Languages**  
 C++, Python, Java
-
-**Core Areas**  
-Computational physics, HPC environments, detector simulation, numerical modeling
 
 **Tools and Frameworks**  
 Geant4, G4CMP, SLURM, Bash scripting, Git, NumPy, Pandas, Librosa
@@ -30,7 +24,6 @@ Geant4, G4CMP, SLURM, Bash scripting, Git, NumPy, Pandas, Librosa
 ## Contact and Links
 
 **LinkedIn**: www.linkedin.com/in/jack-bollenbacher-b52951231/   
-**GitHub**: You're already here
 
-**Website**: https://kingofrlyeh.github.io/
+
 
